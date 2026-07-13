@@ -1,0 +1,1 @@
+var e=`/kevin-ruth/images/pinpoint.png`;export{e as t};
